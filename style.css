@@ -1,0 +1,61 @@
+.makeup-card {
+    margin: 20px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .makeup-card img {
+    width: 200px;
+    height: 200px;
+    object-fit: contain;
+    margin-bottom: 10px;
+  }
+  
+  .makeup-card a {
+    margin-top: 10px;
+    text-decoration: none;
+    color: #555;
+  }
+  
+  .makeup-card a:hover {
+    color: #000;
+  }
+  
+  .highlight {
+    background-color: yellow;
+  }
+
+  header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #333;
+    color: #fff;
+    padding: 1rem;
+  }
+
+  nav li{
+    float: right;
+  }
+
+  nav li{
+    display: inline-block;
+    list-style: none;
+  }
+
+  nav li a{
+    font-size: 18px;
+    padding: 0px 30px;
+    color: #fff;
+    text-decoration: none;
+  }
+
+  
+
+    
+
+  
